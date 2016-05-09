@@ -14,8 +14,8 @@ public class Main {
 		char znak;
 		BufferedReader tekstowo;
 
-		char tablica[] = { 'a', '¹', 'b', 'c', 'æ', 'd', 'e', 'ê', 'f', 'g', 'h', 'i', 'j', 'k', 'l', '³', 'm', 'n',
-				'ñ', 'o', 'ó', 'p', 'r', 's', 'œ', 't', 'u', 'w', 'y', 'z', 'Ÿ', '¿' };
+		char tablica[] = { 'a',  'b', 'c',  'd', 'e',  'f', 'g', 'h', 'i', 'j', 'k', 'l',  'm', 'n',
+				 'o',  'p', 'r', 's',  't', 'u', 'w', 'y', 'z' };
 		int tabi[] = new int[tablica.length];
 		String tabgwiazdka[] = new String[100];
 		
